@@ -1,6 +1,6 @@
 //psvm= shortcut for java class
 
-//no space btw "foile name" & "folder name"
+//no space btw "file name" & "folder name"
 
 / = forward slash, \ = back slash
 
