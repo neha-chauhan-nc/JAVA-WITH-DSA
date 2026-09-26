@@ -16,9 +16,5 @@ trick:- select part + ctrl + /
 (1) _& $ is allowed, else special character not allowed. eg:- int x / int _x /int _1x /int $x
 (2)"blank"(space)& "commas"(,) & "keywords" are not allowed.
 
-============================================================
-
-
-
-
+=============================================================
 
