@@ -4,7 +4,7 @@
 
 / = forward slash, \ = back slash
 
-//\n = next line (used btw text), println = next line (eg.System.out.println())
+//\n = next line (used btw text) or escape sequence, println = next line (eg.System.out.println())
 
 // comment in java : // or /*  */
 trick:- select part + ctrl + /
