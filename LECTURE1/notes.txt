@@ -26,5 +26,9 @@ trick:-select line + ctrl + /  =>add / remove comment
 
 for user input: Scanner class (java.util.Scanner)
 
+Scanner is a Class, scanner object mein in parenthesis we pass "constructor"
+"System.in" => take input from keyboard
 
+Scanner ke andar func. hote h "getter" , "setter" ,inmein se hi func. "nextInt()" func. bhi hoga(check?)
+ 
 
