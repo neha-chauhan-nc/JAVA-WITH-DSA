@@ -21,3 +21,10 @@ trick:- select part + ctrl + /
 
 =============================================================
 
+//comment:- //(single line) or /**/(multiline)
+trick:-select line + ctrl + /  =>add / remove comment
+
+for user input: Scanner class (java.util.Scanner)
+
+
+
